@@ -12,7 +12,7 @@
   "devDependencies": {
     "node-sass": "^8.0.0",
     "postcss-cli": "^10.0.0",
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
     "autoprefixer": "10.4.13",
     "browser-sync": "^2.27.10",
